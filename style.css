@@ -1,0 +1,21 @@
+#wrapper {
+	margin: auto;
+	width: 64ch;
+	font-family: Georgia;
+	font-size: 14px;
+}
+
+#header {
+	position: relative;
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: Navy;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #FF6C0C;
+}
